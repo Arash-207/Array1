@@ -1,0 +1,14 @@
+C:\Users\Mr. X\source\repos\HW21\HW21\bin\Debug\net8.0\HW21.exe
+C:\Users\Mr. X\source\repos\HW21\HW21\bin\Debug\net8.0\HW21.deps.json
+C:\Users\Mr. X\source\repos\HW21\HW21\bin\Debug\net8.0\HW21.runtimeconfig.json
+C:\Users\Mr. X\source\repos\HW21\HW21\bin\Debug\net8.0\HW21.dll
+C:\Users\Mr. X\source\repos\HW21\HW21\bin\Debug\net8.0\HW21.pdb
+C:\Users\Mr. X\source\repos\HW21\HW21\obj\Debug\net8.0\HW21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. X\source\repos\HW21\HW21\obj\Debug\net8.0\HW21.AssemblyInfoInputs.cache
+C:\Users\Mr. X\source\repos\HW21\HW21\obj\Debug\net8.0\HW21.AssemblyInfo.cs
+C:\Users\Mr. X\source\repos\HW21\HW21\obj\Debug\net8.0\HW21.csproj.CoreCompileInputs.cache
+C:\Users\Mr. X\source\repos\HW21\HW21\obj\Debug\net8.0\HW21.dll
+C:\Users\Mr. X\source\repos\HW21\HW21\obj\Debug\net8.0\refint\HW21.dll
+C:\Users\Mr. X\source\repos\HW21\HW21\obj\Debug\net8.0\HW21.pdb
+C:\Users\Mr. X\source\repos\HW21\HW21\obj\Debug\net8.0\HW21.genruntimeconfig.cache
+C:\Users\Mr. X\source\repos\HW21\HW21\obj\Debug\net8.0\ref\HW21.dll

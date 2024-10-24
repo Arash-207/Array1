@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr. X\\source\\repos\\\u06A9\u0648\u0686\u06A9\u062A\u0631\u06CC\u0646 \u0648 \u0628\u0632\u0631\u06AF\u062A\u0631\u06CC\u0646 \u0639\u0636\u0648. \u0645\u0639\u06A9\u0648\u0633 \u0627\u0631\u0627\u06CC\u0647. \u0633\u0648\u0631\u062A. \u062A\u06A9\u0631\u0627\u0631 \u0648 \u062A\u0639\u062F\u0627\u062F \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u0627\u0646\u062F\u06CC\u0633. \u0627\u0639\u0636\u0627\u06CC \u0645\u0634\u062A\u0631\u06A9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3642E8C-7945-4822-9D16-10C7BD80E88F}|HW21\\HW21.csproj|c:\\users\\mr. x\\source\\repos\\\u06A9\u0648\u0686\u06A9\u062A\u0631\u06CC\u0646 \u0648 \u0628\u0632\u0631\u06AF\u062A\u0631\u06CC\u0646 \u0639\u0636\u0648. \u0645\u0639\u06A9\u0648\u0633 \u0627\u0631\u0627\u06CC\u0647. \u0633\u0648\u0631\u062A. \u062A\u06A9\u0631\u0627\u0631 \u0648 \u062A\u0639\u062F\u0627\u062F \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u0627\u0646\u062F\u06CC\u0633. \u0627\u0639\u0636\u0627\u06CC \u0645\u0634\u062A\u0631\u06A9\\hw21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3642E8C-7945-4822-9D16-10C7BD80E88F}|HW21\\HW21.csproj|solutionrelative:hw21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\\u06A9\u0648\u0686\u06A9\u062A\u0631\u06CC\u0646 \u0648 \u0628\u0632\u0631\u06AF\u062A\u0631\u06CC\u0646 \u0639\u0636\u0648. \u0645\u0639\u06A9\u0648\u0633 \u0627\u0631\u0627\u06CC\u0647. \u0633\u0648\u0631\u062A. \u062A\u06A9\u0631\u0627\u0631 \u0648 \u062A\u0639\u062F\u0627\u062F \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u0627\u0646\u062F\u06CC\u0633. \u0627\u0639\u0636\u0627\u06CC \u0645\u0634\u062A\u0631\u06A9\\HW21\\Program.cs",
+              "RelativeDocumentMoniker": "HW21\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\\u06A9\u0648\u0686\u06A9\u062A\u0631\u06CC\u0646 \u0648 \u0628\u0632\u0631\u06AF\u062A\u0631\u06CC\u0646 \u0639\u0636\u0648. \u0645\u0639\u06A9\u0648\u0633 \u0627\u0631\u0627\u06CC\u0647. \u0633\u0648\u0631\u062A. \u062A\u06A9\u0631\u0627\u0631 \u0648 \u062A\u0639\u062F\u0627\u062F \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u0627\u0646\u062F\u06CC\u0633. \u0627\u0639\u0636\u0627\u06CC \u0645\u0634\u062A\u0631\u06A9\\HW21\\Program.cs",
+              "RelativeToolTip": "HW21\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:57:45.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
